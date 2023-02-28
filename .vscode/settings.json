@@ -1,0 +1,19 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.CustomBrowser": "microsoft-edge",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/msedge.exe",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "editor.accessibilitySupport": "on",
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.colorTheme": "Ayu Dark Bordered",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    
+    
+}
